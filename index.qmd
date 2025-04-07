@@ -1,5 +1,10 @@
 ---
 title: "Lab 6"
+author: "Mel Balcarcel Arias"
+format: html
+execute: 
+  echo: true
+
 ---
 ```{r}
 library(tidyverse)
