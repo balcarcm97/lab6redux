@@ -1,0 +1,19 @@
+project:
+  output-dir: docs
+  type: website
+
+website:
+  title: "Lab 6"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
